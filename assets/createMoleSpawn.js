@@ -7,7 +7,7 @@ function createMoleSpawn() {
 
   setTimeout(() => {
     chosenMole.classList.add("scale-0");
-  }, 800);
+  }, 600);
 }
 
 export { createMoleSpawn };

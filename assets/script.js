@@ -5,4 +5,4 @@ import { createCounter } from "./createCounter.js";
 createCounter();
 
 import { createMoleSpawn } from "./createMoleSpawn.js";
-setInterval(createMoleSpawn, 1600);
+setInterval(createMoleSpawn, 1200);
